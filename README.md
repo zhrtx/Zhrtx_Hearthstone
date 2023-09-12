@@ -13,6 +13,9 @@
 卡牌构筑:可以用星尘解锁卡牌,目前可用于构筑的牌 可收集卡牌数量: 579  衍生卡牌数量: 71  卡牌总数量: 650<br>
 游戏设置:用于调整全屏,音量等杂项<br>
 
+mac版下载地址: 链接: https://pan.baidu.com/s/1nPZYvUSIMeXsHcOteLP0sg?pwd=626n 提取码: 626n <br>
+win版下载地址: 链接: https://pan.baidu.com/s/1T0SUOv4DqyKdZeSA-ezKAA?pwd=sub8 提取码: sub8 <br>
+
 ![WX20230912-134819@2x](https://github.com/zhrtx/Zhrtx_Hearthstone/assets/74520758/dcbd0e15-b012-4648-912d-0875ae4f3517)
 ![WX20230912-134854@2x](https://github.com/zhrtx/Zhrtx_Hearthstone/assets/74520758/441439c3-8893-4ad1-8668-daa11b14be9a)
 ![WX20230912-134746@2x](https://github.com/zhrtx/Zhrtx_Hearthstone/assets/74520758/2f3dea2e-a153-4a5f-b33a-92810cb24965)
